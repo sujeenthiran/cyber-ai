@@ -1,0 +1,8 @@
+backend/.venv/
+backend/data/
+backend/voices/*.onnx
+backend/voices/*.onnx.json
+frontend/node_modules/
+__pycache__/
+*.pyc
+.venv/
